@@ -5,9 +5,27 @@ import { Star } from 'lucide-react';
 
 const reviews = [
   {
+    name: "mike turner",
+    date: "1 year ago",
+    text: "Highly recommend Tim and his gang. After trying numerous other companies I was feeling rather underwhelmed by their advice and knowledge of Air Source Heat...",
+    location: "Kent"
+  },
+  {
+    name: "ROB SHORT",
+    date: "1 year ago",
+    text: "Am very impressed with our new heat pump, hot water and solar panels. Tim and the crew all did a splendid job and we can't thank them enough.",
+    location: "Kent"
+  },
+  {
+    name: "Ian Sanders",
+    date: "1 year ago",
+    text: "Great experience from start to finish. Well informed and good advise to start. The installation was as smooth as is possible with a victorian house.",
+    location: "Kent"
+  },
+  {
     name: "Genuine Customer",
     date: "Recent",
-    text: "Tim and team did an exceptional job replacing our oil boiler and hot water cylinder with a Riello air source heat pump and new hot water cylinder.\nOf the several quotes we received, Tim was the only person who went through the effort of completing a full heat loss survey of our home on the first visit. His thoroughness reassured us, and gave us confidence in his proposed approach.\nOn the week of the install, the team were great contractors to have at our home. They were neat and tidy (despite having to dig in Sussex clay!) and were happy to explain what was being done and why, and took into account our needs. Their attention to detail was very high, and things such as the neatness of the internal pipe work and quality of the insulation (properly mitred joints) gives us confidence in all the bits we can't see!\nOur heat pump is working really well and we are very impressed. They installed a Homely Energy controller... during the final cold spells of early spring our home was warm and toasty, using less energy (£ electricity vs £ oil) than before.\nWe wouldn't hesitate to recommend Kent Heat Pumps to others.",
+    text: "Tim and team did an exceptional job replacing our oil boiler with a Riello air source heat pump. Their attention to detail was very high... Our heat pump is working really well and we are very impressed.",
     location: "Kent"
   }
 ];
