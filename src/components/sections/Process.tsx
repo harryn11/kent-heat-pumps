@@ -9,8 +9,8 @@ gsap.registerPlugin(ScrollTrigger);
 const steps = [
   {
     icon: ClipboardCheck,
-    title: "Step 1: 'Show & Tell' Consultation",
-    description: "We invite you to our home, put the kettle on, and walk you through our own low-carbon systems in real-time. No pushy salespeople."
+    title: "Step 1: Initial Consultation",
+    description: "We discuss your heating needs, property details, and energy goals to determine the best low-carbon system for you."
   },
   {
     icon: PenTool,
